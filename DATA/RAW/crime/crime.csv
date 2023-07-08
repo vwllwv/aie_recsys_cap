@@ -1,0 +1,421 @@
+﻿city,data_year,offense,state_abbr,cleared,actual
+San Jose,2012,aggravated-assault,CA,3277,8329
+San Jose,2012,arson,CA,65,1262
+San Jose,2012,burglary,CA,2003,16388
+San Jose,2012,homicide,CA,180,299
+San Jose,2012,human-trafficing,CA,0,0
+San Jose,2012,larceny,CA,5538,56006
+San Jose,2012,motor-vehicle-theft,CA,859,15084
+San Jose,2012,property-crime,CA,8400,87478
+San Jose,2012,rape,CA,0,0
+San Jose,2012,rape-legacy,CA,584,936
+San Jose,2012,robbery,CA,2198,8983
+San Jose,2012,violent-crime,CA,6239,18547
+San Jose,2013,aggravated-assault,CA,3073,7624
+San Jose,2013,arson,CA,70,1430
+San Jose,2013,burglary,CA,1970,15728
+San Jose,2013,homicide,CA,271,251
+San Jose,2013,human-trafficing,CA,0,0
+San Jose,2013,larceny,CA,5213,55734
+San Jose,2013,motor-vehicle-theft,CA,911,14382
+San Jose,2013,property-crime,CA,8094,85844
+San Jose,2013,rape,CA,0,0
+San Jose,2013,rape-legacy,CA,505,764
+San Jose,2013,robbery,CA,1847,7885
+San Jose,2013,violent-crime,CA,5696,16524
+San Jose,2014,aggravated-assault,CA,4653,9836
+San Jose,2014,arson,CA,119,1137
+San Jose,2014,burglary,CA,1917,15070
+San Jose,2014,homicide,CA,197,260
+San Jose,2014,human-trafficing,CA,0,0
+San Jose,2014,larceny,CA,5391,54281
+San Jose,2014,motor-vehicle-theft,CA,1120,13788
+San Jose,2014,property-crime,CA,8428,83139
+San Jose,2014,rape,CA,648,1126
+San Jose,2014,rape-legacy,CA,0,0
+San Jose,2014,robbery,CA,2397,7949
+San Jose,2014,violent-crime,CA,7895,19171
+San Jose,2015,aggravated-assault,CA,6613,13713
+San Jose,2015,arson,CA,109,1131
+San Jose,2015,burglary,CA,2061,16160
+San Jose,2015,homicide,CA,192,282
+San Jose,2015,human-trafficing,CA,0,0
+San Jose,2015,larceny,CA,4959,61191
+San Jose,2015,motor-vehicle-theft,CA,1352,16152
+San Jose,2015,property-crime,CA,8372,93503
+San Jose,2015,rape,CA,1206,2209
+San Jose,2015,rape-legacy,CA,0,0
+San Jose,2015,robbery,CA,2739,8952
+San Jose,2015,violent-crime,CA,10750,25156
+San Jose,2016,aggravated-assault,CA,7824,15874
+San Jose,2016,arson,CA,88,1241
+San Jose,2016,burglary,CA,1853,15821
+San Jose,2016,homicide,CA,215,293
+San Jose,2016,human-trafficing,CA,0,0
+San Jose,2016,larceny,CA,4867,64739
+San Jose,2016,motor-vehicle-theft,CA,1602,18591
+San Jose,2016,property-crime,CA,8322,99151
+San Jose,2016,rape,CA,1303,2343
+San Jose,2016,rape-legacy,CA,0,0
+San Jose,2016,robbery,CA,3159,10307
+San Jose,2016,violent-crime,CA,12501,28817
+San Jose,2017,aggravated-assault,CA,8033,16957
+San Jose,2017,arson,CA,125,1414
+San Jose,2017,burglary,CA,1915,16668
+San Jose,2017,homicide,CA,208,281
+San Jose,2017,human-trafficing,CA,0,0
+San Jose,2017,larceny,CA,4510,65757
+San Jose,2017,motor-vehicle-theft,CA,1865,19193
+San Jose,2017,property-crime,CA,8290,101618
+San Jose,2017,rape,CA,1167,2455
+San Jose,2017,rape-legacy,CA,0,0
+San Jose,2017,robbery,CA,3397,10814
+San Jose,2017,violent-crime,CA,12805,30507
+San Jose,2018,aggravated-assault,CA,8164,17013
+San Jose,2018,arson,CA,77,1049
+San Jose,2018,burglary,CA,1878,15988
+San Jose,2018,homicide,CA,197,258
+San Jose,2018,human-trafficing,CA,0,0
+San Jose,2018,larceny,CA,4448,67963
+San Jose,2018,motor-vehicle-theft,CA,1940,17316
+San Jose,2018,property-crime,CA,8266,101267
+San Jose,2018,rape,CA,1266,2528
+San Jose,2018,rape-legacy,CA,0,0
+San Jose,2018,robbery,CA,3129,10327
+San Jose,2018,violent-crime,CA,12756,30126
+Irvine,2012,aggravated-assault,CA,61,71
+Irvine,2012,arson,CA,8,22
+Irvine,2012,burglary,CA,69,570
+Irvine,2012,homicide,CA,2,2
+Irvine,2012,human-trafficing,CA,0,0
+Irvine,2012,larceny,CA,496,2599
+Irvine,2012,motor-vehicle-theft,CA,24,135
+Irvine,2012,property-crime,CA,589,3304
+Irvine,2012,rape,CA,0,0
+Irvine,2012,rape-legacy,CA,6,8
+Irvine,2012,robbery,CA,15,29
+Irvine,2012,violent-crime,CA,84,110
+Irvine,2013,aggravated-assault,CA,45,61
+Irvine,2013,arson,CA,4,10
+Irvine,2013,burglary,CA,90,583
+Irvine,2013,homicide,CA,2,2
+Irvine,2013,human-trafficing,CA,0,0
+Irvine,2013,larceny,CA,538,2553
+Irvine,2013,motor-vehicle-theft,CA,31,149
+Irvine,2013,property-crime,CA,659,3285
+Irvine,2013,rape,CA,0,0
+Irvine,2013,rape-legacy,CA,7,12
+Irvine,2013,robbery,CA,21,38
+Irvine,2013,violent-crime,CA,75,113
+Irvine,2014,aggravated-assault,CA,44,56
+Irvine,2014,arson,CA,3,8
+Irvine,2014,burglary,CA,96,575
+Irvine,2014,homicide,CA,0,0
+Irvine,2014,human-trafficing,CA,0,0
+Irvine,2014,larceny,CA,526,2344
+Irvine,2014,motor-vehicle-theft,CA,19,126
+Irvine,2014,property-crime,CA,641,3045
+Irvine,2014,rape,CA,0,0
+Irvine,2014,rape-legacy,CA,20,28
+Irvine,2014,robbery,CA,21,36
+Irvine,2014,violent-crime,CA,85,120
+Irvine,2015,aggravated-assault,CA,62,58
+Irvine,2015,arson,CA,0,8
+Irvine,2015,burglary,CA,71,523
+Irvine,2015,homicide,CA,1,2
+Irvine,2015,human-trafficing,CA,0,0
+Irvine,2015,larceny,CA,595,3144
+Irvine,2015,motor-vehicle-theft,CA,23,201
+Irvine,2015,property-crime,CA,689,3868
+Irvine,2015,rape,CA,20,27
+Irvine,2015,rape-legacy,CA,0,0
+Irvine,2015,robbery,CA,31,57
+Irvine,2015,violent-crime,CA,114,144
+Irvine,2016,aggravated-assault,CA,47,56
+Irvine,2016,arson,CA,3,9
+Irvine,2016,burglary,CA,83,640
+Irvine,2016,homicide,CA,3,3
+Irvine,2016,human-trafficing,CA,0,0
+Irvine,2016,larceny,CA,584,2918
+Irvine,2016,motor-vehicle-theft,CA,26,179
+Irvine,2016,property-crime,CA,693,3737
+Irvine,2016,rape,CA,33,41
+Irvine,2016,rape-legacy,CA,0,0
+Irvine,2016,robbery,CA,38,52
+Irvine,2016,violent-crime,CA,121,152
+Irvine,2017,aggravated-assault,CA,61,66
+Irvine,2017,arson,CA,5,10
+Irvine,2017,burglary,CA,102,627
+Irvine,2017,homicide,CA,2,2
+Irvine,2017,human-trafficing,CA,0,0
+Irvine,2017,larceny,CA,385,2814
+Irvine,2017,motor-vehicle-theft,CA,53,194
+Irvine,2017,property-crime,CA,540,3635
+Irvine,2017,rape,CA,30,46
+Irvine,2017,rape-legacy,CA,0,0
+Irvine,2017,robbery,CA,26,55
+Irvine,2017,violent-crime,CA,119,169
+Irvine,2018,aggravated-assault,CA,57,67
+Irvine,2018,arson,CA,6,9
+Irvine,2018,burglary,CA,78,621
+Irvine,2018,homicide,CA,4,0
+Irvine,2018,human-trafficing,CA,0,0
+Irvine,2018,larceny,CA,352,2840
+Irvine,2018,motor-vehicle-theft,CA,51,198
+Irvine,2018,property-crime,CA,481,3659
+Irvine,2018,rape,CA,38,40
+Irvine,2018,rape-legacy,CA,0,0
+Irvine,2018,robbery,CA,32,53
+Irvine,2018,violent-crime,CA,131,160
+Austin,2012,aggravated-assault,TX,1309,2187
+Austin,2012,arson,TX,57,121
+Austin,2012,burglary,TX,728,7244
+Austin,2012,homicide,TX,27,31
+Austin,2012,human-trafficing,TX,0,0
+Austin,2012,larceny,TX,4367,33913
+Austin,2012,motor-vehicle-theft,TX,209,2315
+Austin,2012,property-crime,TX,5304,43472
+Austin,2012,rape,TX,0,0
+Austin,2012,rape-legacy,TX,106,209
+Austin,2012,robbery,TX,227,978
+Austin,2012,violent-crime,TX,1669,3405
+Austin,2013,aggravated-assault,TX,1393,2117
+Austin,2013,arson,TX,54,105
+Austin,2013,burglary,TX,599,6550
+Austin,2013,homicide,TX,26,26
+Austin,2013,human-trafficing,TX,0,0
+Austin,2013,larceny,TX,4564,32948
+Austin,2013,motor-vehicle-theft,TX,248,2169
+Austin,2013,property-crime,TX,5411,41667
+Austin,2013,rape,TX,0,0
+Austin,2013,rape-legacy,TX,144,217
+Austin,2013,robbery,TX,219,763
+Austin,2013,violent-crime,TX,1782,3123
+Austin,2014,aggravated-assault,TX,1279,2105
+Austin,2014,arson,TX,51,95
+Austin,2014,burglary,TX,623,5733
+Austin,2014,homicide,TX,21,32
+Austin,2014,human-trafficing,TX,0,0
+Austin,2014,larceny,TX,4437,29423
+Austin,2014,motor-vehicle-theft,TX,370,2288
+Austin,2014,property-crime,TX,5430,37444
+Austin,2014,rape,TX,310,571
+Austin,2014,rape-legacy,TX,0,0
+Austin,2014,robbery,TX,272,873
+Austin,2014,violent-crime,TX,1882,3581
+Austin,2015,aggravated-assault,TX,1230,2058
+Austin,2015,arson,TX,31,91
+Austin,2015,burglary,TX,593,5000
+Austin,2015,homicide,TX,20,23
+Austin,2015,human-trafficing,TX,0,0
+Austin,2015,larceny,TX,3670,28068
+Austin,2015,motor-vehicle-theft,TX,458,2331
+Austin,2015,property-crime,TX,4721,35399
+Austin,2015,rape,TX,259,487
+Austin,2015,rape-legacy,TX,0,0
+Austin,2015,robbery,TX,287,929
+Austin,2015,violent-crime,TX,1796,3497
+Austin,2016,aggravated-assault,TX,1002,2069
+Austin,2016,arson,TX,32,74
+Austin,2016,burglary,TX,655,5252
+Austin,2016,homicide,TX,31,39
+Austin,2016,human-trafficing,TX,0,0
+Austin,2016,larceny,TX,3180,26204
+Austin,2016,motor-vehicle-theft,TX,497,2119
+Austin,2016,property-crime,TX,4332,33575
+Austin,2016,rape,TX,381,747
+Austin,2016,rape-legacy,TX,0,0
+Austin,2016,robbery,TX,362,1048
+Austin,2016,violent-crime,TX,1776,3903
+Austin,2017,aggravated-assault,TX,1042,2186
+Austin,2017,arson,TX,32,76
+Austin,2017,burglary,TX,550,4380
+Austin,2017,homicide,TX,26,26
+Austin,2017,human-trafficing,TX,0,0
+Austin,2017,larceny,TX,2572,24542
+Austin,2017,motor-vehicle-theft,TX,308,2079
+Austin,2017,property-crime,TX,3430,31001
+Austin,2017,rape,TX,439,834
+Austin,2017,rape-legacy,TX,0,0
+Austin,2017,robbery,TX,329,987
+Austin,2017,violent-crime,TX,1836,4033
+Austin,2018,aggravated-assault,TX,837,1880
+Austin,2018,arson,TX,25,53
+Austin,2018,burglary,TX,544,4549
+Austin,2018,homicide,TX,28,32
+Austin,2018,human-trafficing,TX,0,0
+Austin,2018,larceny,TX,2370,26568
+Austin,2018,motor-vehicle-theft,TX,456,2538
+Austin,2018,property-crime,TX,3370,33655
+Austin,2018,rape,TX,271,787
+Austin,2018,rape-legacy,TX,0,0
+Austin,2018,robbery,TX,341,1021
+Austin,2018,violent-crime,TX,1477,3720
+Dallas,2012,aggravated-assault,TX,2255,3647
+Dallas,2012,arson,TX,132,581
+Dallas,2012,burglary,TX,845,16090
+Dallas,2012,homicide,TX,89,154
+Dallas,2012,human-trafficing,TX,0,0
+Dallas,2012,larceny,TX,4535,31148
+Dallas,2012,motor-vehicle-theft,TX,495,7062
+Dallas,2012,property-crime,TX,5875,54300
+Dallas,2012,rape,TX,0,0
+Dallas,2012,rape-legacy,TX,285,486
+Dallas,2012,robbery,TX,707,4093
+Dallas,2012,violent-crime,TX,3336,8380
+Dallas,2013,aggravated-assault,TX,2038,3442
+Dallas,2013,arson,TX,65,455
+Dallas,2013,burglary,TX,717,14516
+Dallas,2013,homicide,TX,86,143
+Dallas,2013,human-trafficing,TX,0,0
+Dallas,2013,larceny,TX,4444,30374
+Dallas,2013,motor-vehicle-theft,TX,455,7384
+Dallas,2013,property-crime,TX,5616,52274
+Dallas,2013,rape,TX,0,0
+Dallas,2013,rape-legacy,TX,247,543
+Dallas,2013,robbery,TX,677,4202
+Dallas,2013,violent-crime,TX,3048,8330
+Dallas,2014,aggravated-assault,TX,1897,3704
+Dallas,2014,arson,TX,75,385
+Dallas,2014,burglary,TX,625,11685
+Dallas,2014,homicide,TX,67,116
+Dallas,2014,human-trafficing,TX,0,0
+Dallas,2014,larceny,TX,3862,26939
+Dallas,2014,motor-vehicle-theft,TX,409,7045
+Dallas,2014,property-crime,TX,4896,45669
+Dallas,2014,rape,TX,434,781
+Dallas,2014,rape-legacy,TX,0,0
+Dallas,2014,robbery,TX,655,3856
+Dallas,2014,violent-crime,TX,3053,8457
+Dallas,2015,aggravated-assault,TX,2008,3943
+Dallas,2015,arson,TX,78,349
+Dallas,2015,burglary,TX,504,11121
+Dallas,2015,homicide,TX,81,136
+Dallas,2015,human-trafficing,TX,0,0
+Dallas,2015,larceny,TX,3096,26076
+Dallas,2015,motor-vehicle-theft,TX,489,7594
+Dallas,2015,property-crime,TX,4089,44791
+Dallas,2015,rape,TX,426,782
+Dallas,2015,rape-legacy,TX,0,0
+Dallas,2015,robbery,TX,680,4177
+Dallas,2015,violent-crime,TX,3195,9038
+Dallas,2016,aggravated-assault,TX,2309,4529
+Dallas,2016,arson,TX,74,369
+Dallas,2016,burglary,TX,493,10948
+Dallas,2016,homicide,TX,85,171
+Dallas,2016,human-trafficing,TX,0,0
+Dallas,2016,larceny,TX,2079,26370
+Dallas,2016,motor-vehicle-theft,TX,664,7592
+Dallas,2016,property-crime,TX,3236,44910
+Dallas,2016,rape,TX,451,767
+Dallas,2016,rape-legacy,TX,0,0
+Dallas,2016,robbery,TX,777,4604
+Dallas,2016,violent-crime,TX,3622,10071
+Dallas,2017,aggravated-assault,TX,2442,4994
+Dallas,2017,arson,TX,31,151
+Dallas,2017,burglary,TX,482,9874
+Dallas,2017,homicide,TX,133,167
+Dallas,2017,human-trafficing,TX,0,0
+Dallas,2017,larceny,TX,1801,24847
+Dallas,2017,motor-vehicle-theft,TX,823,7913
+Dallas,2017,property-crime,TX,3106,42634
+Dallas,2017,rape,TX,458,831
+Dallas,2017,rape-legacy,TX,0,0
+Dallas,2017,robbery,TX,838,4377
+Dallas,2017,violent-crime,TX,3871,10369
+Dallas,2018,aggravated-assault,TX,1448,5456
+Dallas,2018,arson,TX,5,150
+Dallas,2018,burglary,TX,281,9125
+Dallas,2018,homicide,TX,57,155
+Dallas,2018,human-trafficing,TX,0,0
+Dallas,2018,larceny,TX,1343,25698
+Dallas,2018,motor-vehicle-theft,TX,633,9680
+Dallas,2018,property-crime,TX,2257,44503
+Dallas,2018,rape,TX,166,860
+Dallas,2018,rape-legacy,TX,65,560
+Dallas,2018,robbery,TX,400,3987
+Dallas,2018,violent-crime,TX,2136,11018
+San Antonio,2012,aggravated-assault,TX,1426,4441
+San Antonio,2012,arson,TX,14,245
+San Antonio,2012,burglary,TX,751,15668
+San Antonio,2012,homicide,TX,62,89
+San Antonio,2012,human-trafficing,TX,0,0
+San Antonio,2012,larceny,TX,8215,60633
+San Antonio,2012,motor-vehicle-theft,TX,340,6367
+San Antonio,2012,property-crime,TX,9306,82668
+San Antonio,2012,rape,TX,0,0
+San Antonio,2012,rape-legacy,TX,193,549
+San Antonio,2012,robbery,TX,407,1864
+San Antonio,2012,violent-crime,TX,2088,6943
+San Antonio,2013,aggravated-assault,TX,2359,5901
+San Antonio,2013,arson,TX,16,315
+San Antonio,2013,burglary,TX,961,14850
+San Antonio,2013,homicide,TX,54,72
+San Antonio,2013,human-trafficing,TX,0,0
+San Antonio,2013,larceny,TX,8143,58567
+San Antonio,2013,motor-vehicle-theft,TX,469,6577
+San Antonio,2013,property-crime,TX,9573,79994
+San Antonio,2013,rape,TX,0,0
+San Antonio,2013,rape-legacy,TX,256,663
+San Antonio,2013,robbery,TX,574,2192
+San Antonio,2013,violent-crime,TX,3243,8828
+San Antonio,2014,aggravated-assault,TX,1481,4747
+San Antonio,2014,arson,TX,7,298
+San Antonio,2014,burglary,TX,627,12344
+San Antonio,2014,homicide,TX,79,103
+San Antonio,2014,human-trafficing,TX,0,0
+San Antonio,2014,larceny,TX,8239,57908
+San Antonio,2014,motor-vehicle-theft,TX,384,7140
+San Antonio,2014,property-crime,TX,9250,77392
+San Antonio,2014,rape,TX,236,1077
+San Antonio,2014,rape-legacy,TX,0,0
+San Antonio,2014,robbery,TX,367,1777
+San Antonio,2014,violent-crime,TX,2163,7704
+San Antonio,2015,aggravated-assault,TX,1334,5465
+San Antonio,2015,arson,TX,9,261
+San Antonio,2015,burglary,TX,378,11632
+San Antonio,2015,homicide,TX,81,94
+San Antonio,2015,human-trafficing,TX,0,0
+San Antonio,2015,larceny,TX,6853,55803
+San Antonio,2015,motor-vehicle-theft,TX,256,6176
+San Antonio,2015,property-crime,TX,7487,73611
+San Antonio,2015,rape,TX,171,1049
+San Antonio,2015,rape-legacy,TX,0,0
+San Antonio,2015,robbery,TX,233,1986
+San Antonio,2015,violent-crime,TX,1819,8594
+San Antonio,2016,aggravated-assault,TX,1567,7183
+San Antonio,2016,arson,TX,15,254
+San Antonio,2016,burglary,TX,297,12235
+San Antonio,2016,homicide,TX,99,149
+San Antonio,2016,human-trafficing,TX,0,0
+San Antonio,2016,larceny,TX,5249,58318
+San Antonio,2016,motor-vehicle-theft,TX,280,7233
+San Antonio,2016,property-crime,TX,5826,77786
+San Antonio,2016,rape,TX,150,1190
+San Antonio,2016,rape-legacy,TX,0,0
+San Antonio,2016,robbery,TX,255,2232
+San Antonio,2016,violent-crime,TX,2071,10754
+San Antonio,2017,aggravated-assault,TX,1598,7067
+San Antonio,2017,arson,TX,13,184
+San Antonio,2017,burglary,TX,333,11722
+San Antonio,2017,homicide,TX,89,124
+San Antonio,2017,human-trafficing,TX,0,0
+San Antonio,2017,larceny,TX,4810,55090
+San Antonio,2017,motor-vehicle-theft,TX,538,6864
+San Antonio,2017,property-crime,TX,5681,73676
+San Antonio,2017,rape,TX,212,1270
+San Antonio,2017,rape-legacy,TX,0,0
+San Antonio,2017,robbery,TX,375,2298
+San Antonio,2017,violent-crime,TX,2274,10759
+San Antonio,2018,aggravated-assault,TX,1747,6427
+San Antonio,2018,arson,TX,17,153
+San Antonio,2018,burglary,TX,326,9118
+San Antonio,2018,homicide,TX,74,107
+San Antonio,2018,human-trafficing,TX,0,0
+San Antonio,2018,larceny,TX,4833,46271
+San Antonio,2018,motor-vehicle-theft,TX,689,6089
+San Antonio,2018,property-crime,TX,5848,61478
+San Antonio,2018,rape,TX,194,1346
+San Antonio,2018,rape-legacy,TX,0,0
+San Antonio,2018,robbery,TX,277,1767
+San Antonio,2018,violent-crime,TX,2292,9647
