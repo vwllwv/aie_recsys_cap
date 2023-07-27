@@ -1,2 +1,3 @@
 /STEAM/.ipynb_checkpoints
-.csv#
+*.csv#
+.venv
