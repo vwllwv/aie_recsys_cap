@@ -98,7 +98,7 @@ with container:
 	st.title('Give me 10 Steam game recommendations! :video_game:') 
 	#games_input = st.text_input('Input Games App ID', )
 	
-	numbers = st.text_input("PLease enter numbers")
+	numbers = st.text_input("Please enter game app_ID numbers:")
 	
 	st.button('Recommend', on_click=recommend)
 
