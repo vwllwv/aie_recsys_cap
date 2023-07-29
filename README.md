@@ -21,6 +21,7 @@ pip install tensorflow-recommenders
 
 4. Run the streamlit app file 
 app.py is input user_ID, output 10 game recs
+
 app_e.py is input list of game appids, output 10 game recs
 
 ```
