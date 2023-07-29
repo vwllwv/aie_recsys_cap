@@ -17,9 +17,9 @@ import difflib
 import re
 
 # Contains User actions (buy/play associated with games - the users game library w/metadata for each game)
-df_users = pd.read_csv('/home/vern/aiedge_capstone/aie_recsys_cap/STEAM/final2/user_steam_lib_final.csv') 
+df_users = pd.read_csv('../clean_datasets/final2/user_steam_lib_final.csv') 
 # Contains Games (unique games by their appid and metadata e.g. price, ratings, genre, tags)
-df_games = pd.read_csv('/home/vern/aiedge_capstone/aie_recsys_cap/STEAM/final2/games_list_final.csv')   
+df_games = pd.read_csv('../clean_datasets/final2/games_list_final.csv')   
 
 # converting "appid", "english", and other columns from float to int
 df_games = df_games.astype({"name":'string', "og_name": 'string', "appid":'int', "release_date":'string',
@@ -67,7 +67,7 @@ def find_similarity(user_lib_dict, user_input_list, unique_user_ids):
 #### Streamlit app below
 
 URL = 'https://store.steampowered.com/app/'
-PATH = '/home/vern/aiedge_capstone/aie_recsys_cap/STEAM/model'
+PATH = '../tf_models/model'
 games_list = []  # list of game recs
 
 # Load tf model back; can also be done in TensorFlow Serving.

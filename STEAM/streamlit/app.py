@@ -12,7 +12,7 @@ import pandas as pd
 import numpy as np
 
 URL = 'https://store.steampowered.com/app/'
-PATH = '/home/vern/aiedge_capstone/aie_recsys_cap/STEAM/model'
+PATH = '../tf_models/model'
 games_list = []  # list of game recs
 
 # Load tf model back; can also be done in TensorFlow Serving.
