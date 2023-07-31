@@ -8,18 +8,37 @@ AIEdge Recommender System Capstone (June 2023 Cohort)
 python -m venv .venv
 ```
 
+OR
+
+```
+conda create -n tf_recsys
+```
+
 2. activate the virtual env
 ```
 source .venv/bin/activate
 ```
 
-3. In the streamlit folder, pip install tensorflow and tensorflow-recommenders
+OR
+
 ```
+conda activate tf_recsys
+```
+
+3. In the streamlit folder, pip install streamlit version 1.22, tensorflow and tensorflow-recommenders
+```
+pip install streamlit==1.22
 pip install tensorflow
 pip install tensorflow-recommenders
 ```
 
-4. Run the streamlit app file 
+4. Test streamlit installation
+```
+streamlit hello
+```
+Quit the streamlit application if it runs OK.
+
+5. Run the streamlit app file 
 app.py is input user_ID, output 10 game recs
 
 app_e.py is input list of game appids, output 10 game recs
