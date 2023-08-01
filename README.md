@@ -28,7 +28,7 @@ conda activate tf_recsys
 3. In the streamlit folder, pip install streamlit version 1.22, tensorflow and tensorflow-recommenders
 ```
 pip install streamlit==1.22
-pip install tensorflow
+pip install tensorflow==2.11.1
 pip install tensorflow-recommenders
 ```
 
