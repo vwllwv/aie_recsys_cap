@@ -59,3 +59,18 @@ https://www.kaggle.com/datasets/nikdavis/steam-store-games
 2. Tamber Dataset of 200,000 Steam user interactions (Play, Purchase)
 
 https://www.kaggle.com/datasets/tamber/steam-video-games
+
+
+# requirements.txt
+altair==4.2.2
+protobuf==3.19.6
+python==3.10.12
+scann==1.2.9
+streamlit==1.22.0
+tensorflow==2.11.1
+tensorflow-recommenders==0.7.3
+
+## for running the notebooks
+jupyter==1.0.0
+
+
